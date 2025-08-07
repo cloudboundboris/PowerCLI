@@ -17,4 +17,7 @@ $categoryName
 $tagName
 $vms
 ```
+The $vms variable can be used with name pattern, or a list of VMs if you only have a few
+
+
 ---
